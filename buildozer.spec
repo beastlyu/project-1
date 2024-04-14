@@ -25,7 +25,7 @@ source.exclude_patterns = license.txt
 version = 1.0
 
 # (list) Application requirements
-requirements = kivy
+requirements = kivy,python3,hostpython3,pillow
 
 # (str) Custom source folders for requirements
 # Sets custom source for any module names matching the source key
